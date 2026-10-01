@@ -32,9 +32,18 @@ My LeetCode submissions, synced automatically
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/xinyue0124/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/xinyue0124/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/xinyue0124/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
