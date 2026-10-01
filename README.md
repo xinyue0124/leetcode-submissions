@@ -19,6 +19,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/xinyue0124/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,13 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0243-shortest-word-distance](https://github.com/xinyue0124/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
