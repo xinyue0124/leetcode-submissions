@@ -11,6 +11,7 @@ My LeetCode submissions, synced automatically
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xinyue0124/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/xinyue0124/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/xinyue0124/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0243-shortest-word-distance](https://github.com/xinyue0124/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
@@ -46,4 +47,16 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/xinyue0124/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xinyue0124/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xinyue0124/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xinyue0124/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
