@@ -31,6 +31,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xinyue0124/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xinyue0124/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xinyue0124/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0243-shortest-word-distance](https://github.com/xinyue0124/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -56,6 +57,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/xinyue0124/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xinyue0124/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
