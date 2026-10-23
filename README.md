@@ -7,6 +7,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/xinyue0124/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/xinyue0124/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/xinyue0124/leetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xinyue0124/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/xinyue0124/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0243-shortest-word-distance](https://github.com/xinyue0124/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -45,6 +47,7 @@ My LeetCode submissions, synced automatically
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/xinyue0124/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/xinyue0124/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
