@@ -1,10 +1,14 @@
-class Solution:
-  def isAnagram(self, s, t):
-    # TODO: Write your code here
-    countS, countT = {}, {} # char -> count
-    if len(s)!= len(t):
-      return False
-    for i in range(len(s)):
-      countS[s[i]] = 1 + countS.get(s[i], 0)
-      countT[t[i]] = 1 + countT.get(t[i], 0)
-    return countS == countT
+class Solution(object):
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        if len(s) != len(t):
+            return False
+        countS, countT = {}, {}
+        for i in range(len(s)):
+            countS[s[i]] = countS.get(s[i], 0) + 1
+            countT[t[i]] = countT.get(t[i], 0) + 1
+        return countS == countT
