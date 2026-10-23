@@ -19,6 +19,7 @@ My LeetCode submissions, synced automatically
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/xinyue0124/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/xinyue0124/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
@@ -28,6 +29,7 @@ My LeetCode submissions, synced automatically
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/xinyue0124/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0243-shortest-word-distance](https://github.com/xinyue0124/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/xinyue0124/leetcode-submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
